@@ -15,3 +15,17 @@
   height: 500px;
   background-color: orange;
 }
+
+.main {
+  width: 960px;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+  background-color: palegreen;
+}
+
+.main2 {
+  width: 500px;
+  height: 1400px;
+  background-color: green;
+}
